@@ -1,3 +1,5 @@
 this is first test in remote repository
 
 second test
+
+changes from smart git
